@@ -2,7 +2,7 @@
 Data Preprocessing on my data which i mined last repository
 
 ## KAYNAK
-repo'nun icinde ogretmenin verdigi rare kaynak vardir
+repo'nun icinde ogretmenin verdigi raw kaynak vardir
 
 .
 request:
