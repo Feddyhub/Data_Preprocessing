@@ -1,0 +1,23 @@
+Temel olarak kullandigim kaynaklar bu 2 video ve chatGPT'dir.
+https://www.youtube.com/watch?v=xwQvJd-FwKI&ab_channel=BilgisayarKavramlari
+https://www.youtube.com/watch?v=rdfRrf7EcSw&ab_channel=faruk%C3%A7ubuk%C3%A7u
+https://www.youtube.com/watch?v=eVfq092qDig&ab_channel=LeanSixSigmaTraining
+https://www.youtube.com/watch?v=OEw7Ws9bWoc&ab_channel=Serdar%C3%96zbay
+
+
+RAPOR
+
+1- bos degerler acik sari-turuncu ve tonlari ile gosterildi/
+2- standart sapma ve ortalama bulunarak belli bir standartizasyon gelistirildi
+3- ayni olan (Tekrarlanan veriler) alti cizilerek (double underline) ile gosterildi
+4-hatali verileri cikartarak grafik olusturuldu,
+6-Bos olan veriler o veri grubunun ortalamasi ile dolduruldu.(outlier veriler torpulendi).
+5-kategorik verilerin boyutlarina gore hucre duvar siniri ayarlandi ve wrap ozelligi kaldirilarak               uzun olan verilerin alt alta yazilip cok kisa olan verilerin okunulabilirligi arttirildi.
+6-shrink to fit yaparak uzun isimleri otomatik olarak okunabilir seviyeye cekildi.
+7-Gerekli 0-1 Normalizasyonu yapildi ekstra olarak GRAFIK eklendi 
+
+--Yaptiklarimin arka planindaki verilere sola kaydirarak ulasabilirsiniz.(sari sutunun saginda kalan kisim)
+
+** CVS dosyalari renk ve ayirim hicbirturlu kabul etmediginden dolayi dosyanin tipi xlsx formatina cevirildi (2 tane save kaybettim :( ) **
+
+							Murat Ferhat Derya 2020280014 . 

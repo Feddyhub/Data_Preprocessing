@@ -1,0 +1,23 @@
+chatGPT sayesinde Range() , MID fonksiyonlarini kullandim.
+https://www.youtube.com/watch?v=OEw7Ws9bWoc&ab_channel=Serdar%C3%96zbay
+
+
+
+RAPOR
+
+1- A sutunundaki verilerin bazilari tekrar ediyordu fakat veri isminde sira yazdigi icin
+orn:
+  1;Yasar Universitesi X kampusu c blok
+  2;Yasar Universitesi X kampusu c blok
+
+bu iki veriyi farkli algiliyordu.bu yuzden baslangictaki siralamayi MID() Fonksiyonu ile sildim
+
+2- Tekrarlayan okul isimlerini sildigim icin OKUL<->IDARI BIRIM arasinda bosluklar oldu ve bu bosluklari kaydirma yapilmamasi ve goz yormamasi icin  renk ve headline 2 ile belli ettim.
+
+3- MID() Fonksiyonu Kullanarak verileri Textlerine ayirdim : ENLEM BOYLAM UNIVERSITE gibi farkli features'lari ayirip farkli features haline getirip daha okunabilir hale getirdim.
+
+4- Universitelerin Acik adreslerinde gereksiz sutun kullaniliyordu bu yuzden adres ile alakali 3 sutunu "&" komutu ile birlestirip tek sutun haline indirgedim.
+
+5- Elimizde Sayisal veri olmadigi icin 0-1 Normalizasyonu yapamadim.
+
+						Murat Ferhat Derya 2020280014 . 
